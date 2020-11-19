@@ -1,8 +1,4 @@
 # Exploratory Data Analysis Retail
-Author: Aditi Bane
-
-Data Science and Business Analytics Intern at the Sparks Foundation
-
 Task 3: Exploratory Data Analysis - Retail
 
 Problem Statement: Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ 
